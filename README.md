@@ -1,0 +1,4 @@
+# loja-api
+
+yarn 
+npm
